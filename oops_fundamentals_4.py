@@ -16,7 +16,7 @@ class cls1:
 #fun1 is the member of the cls1 because it uses first self param and
 #self.x is member attribute/variable
 #3. Object (obj1) - Instance of a Class (reference) - memory reference of a class
-print("hello team")
+print("hello team in git")
 obj1=cls1()#refer the constructed class using a variable (object)
 print(obj1.fun1(10,20))#finally access the members
 print(obj1.fun1(20,20))#finally access the members
